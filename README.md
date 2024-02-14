@@ -1,5 +1,5 @@
 ### Hi there 👋
-![coding](https://tenor.com/view/hacker-gif-21929152))
+![coding](https://tenor.com/view/hacker-gif-21929152)
 
 <!--
 **eltonvan/eltonvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
